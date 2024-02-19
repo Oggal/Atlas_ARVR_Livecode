@@ -12,10 +12,6 @@ class Program
             Console.WriteLine("Goodbye World!");
         }
 
-
-
-
-
     }
 
 class Counter
